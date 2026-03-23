@@ -3,3 +3,4 @@
 - Lawrence Macharia
 -Bett
 - Henri Ouma
+- Susan Maina
