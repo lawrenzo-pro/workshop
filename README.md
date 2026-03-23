@@ -1,3 +1,4 @@
-## Github session atendees
+## Github session attendees
 
 - Lawrence Macharia
+- Henri Ouma
